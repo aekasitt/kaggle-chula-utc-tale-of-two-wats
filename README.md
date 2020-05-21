@@ -1,4 +1,4 @@
-# Drug Allergy Prediction
+# The Tale of Two Wat
 
 ## For Chulalongkorn AI Academy candidate screening
 
@@ -6,10 +6,8 @@
 
 ## Problem introduction
 
-* All doctors want to avoid prescribing drugs that maybe allergic to the patients
-* Enzyme-linked immunospot (ELISpot) is a laboratory technique that tests whether the patient's immune cells will respond to particular drugs. This allows doctor to screen whether a drug is likely to be safe for the patient.
-* As with any test, ELISpot is not perfect. Drugs that the patient is allergic to sometimes do not elicit any response in ELISpot test (False Negative) and vice versa.
-* Hence, we want to develop a prediction model for drug allergy based on patient information, drug information, and ELISpot result.
+For this problem, you are tasked to develop a machine learning model that takes a photo as input and classify
+whether that photo contains Wat Prakaew or Wat Po. Gather your dataset from photos on the internet.
 
 ## Getting Started
 
